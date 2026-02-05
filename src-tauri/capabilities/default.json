@@ -18,7 +18,7 @@
     "fs:allow-resource-read-recursive",
     {
       "identifier": "fs:scope",
-      "allow": [{ "path": "$APPDATA" }, { "path": "$APPDATA/**/*" }]
+      "allow": [{ "path": "$APPDATA/com.pais.handy" }, { "path": "$APPDATA/com.pais.handy/**/*" }]
     }
   ]
 }
